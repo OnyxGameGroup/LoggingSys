@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\seanf\\Desktop\\airship-assault\\aa\\src\\utils\\debug\\.27df194085d7421f4291f31b279ed34d000739aa-audit.json",
+    "files": [
+        {
+            "date": 1691423929199,
+            "name": "C:\\Users\\seanf\\Desktop\\airship-assault\\aa\\src\\utils\\debug\\2023-08-07.log",
+            "hash": "88a9262a7956cb05612adcd6d67ce0986bd8513522375fc7bf61362a5abf405e"
+        }
+    ],
+    "hashType": "sha256"
+}
